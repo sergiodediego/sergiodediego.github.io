@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Copy & Paste]]></title>
+  <title><![CDATA[MusicaP3]]></title>
   <link href="http://sergiodediego.github.io/atom.xml" rel="self"/>
   <link href="http://sergiodediego.github.io/"/>
-  <updated>2015-02-16T00:08:37+01:00</updated>
+  <updated>2015-02-16T00:14:22+01:00</updated>
   <id>http://sergiodediego.github.io/</id>
   <author>
-    <name><![CDATA[tarteka]]></name>
+    <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
