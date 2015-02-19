@@ -1,21 +1,35 @@
-### Site info:
-title: Musicap3
-tagline: Venta de productos MP3
-author: Sergio de Diego
-description: "Venta de productos MP3." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Mp3"
+# Jekyll configuration
 
+name: My blog
+description: A jekyll theme
 
+# url is currently only used only for the RSS feed in feed.xml
+url: http://scotte.github.io
 
-### your Blogroll info, only name can shown on the page.
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: /jekyll-clean
 
-Blogroll:
-    - name: musicap3
-      href: http://musicap3.com
-      title: Venta de productos MP3
+# This can be '' to hide the Github nav button
+github: 'scotte/jekyll-clean'
 
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: ''
 
-### Build settings
-markdown: kramdown
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+disqus: ''
+comments: true
+
+permalink: /:year/:month/:title
+paginate: 3
+
 highlighter: pygments
-paginate: 5
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+exclude: ['README.md', 'LICENSE']
