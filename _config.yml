@@ -2,7 +2,7 @@
 title: Musicap3
 tagline: Venta de productos MP3
 author: Sergio de Diego
-description: "Venta de productos MP3." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Análisis de productos y accesorios MP3." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Mp3"
 
 locales:
@@ -10,7 +10,7 @@ locales:
      
       Archives: "Archives"
       Blogroll: "Blogroll"
-      Categories: "Categories"
+      Categories: "Categories
       Copyright_Notice: "Copyright Notice"
       Resent_Posts: "Resent Posts"
       Tags: "Tags"
@@ -19,6 +19,7 @@ locales:
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"  
       PostDate: "on "
+
 
 
 
