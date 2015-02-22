@@ -34,7 +34,7 @@ default_locale: "en" # blog sidebar language set, only include: English(en) and 
 Blogroll:
     - name: musicap3
       href: http://musicap3.com
-      title: Venta de productos MP3
+      title: Analisis de productos y accesorios MP3
 
 
 ### Build settings
