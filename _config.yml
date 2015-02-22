@@ -1,6 +1,6 @@
 ### Site info:
 title: Musicap3
-tagline: Venta de productos MP3
+tagline: Análisis de productos y accesorios MP3
 author: Sergio de Diego
 description: "Analisis de productos y accesorios MP3." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Mp3"
@@ -10,7 +10,7 @@ locales:
      
       Archives: "Archives"
       Blogroll: "Blogroll"
-      Categories: "Categories
+      Categories: "Categories"
       Copyright_Notice: "Copyright Notice"
       Resent_Posts: "Resent Posts"
       Tags: "Tags"
