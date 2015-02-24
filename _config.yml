@@ -36,6 +36,10 @@ Blogroll:
       href: http://musicap3.com
       title: Analisis de productos y accesorios MP3
 
+ # Scripts
+google_analytics: "UA-3866214-1" # tracking id, e.g. "UA-000000-01"
+disqus_shortname:
+
 
 ### Build settings
 markdown: kramdown
