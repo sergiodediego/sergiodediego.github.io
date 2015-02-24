@@ -37,8 +37,11 @@ Blogroll:
       title: Analisis de productos y accesorios MP3
 
  # Scripts
-google_analytics_ua: "UA-3866214-1" # tracking id, e.g. "UA-000000-01"
-disqus_shortname:
+
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-3866214-1"'
 
 
 ### Build settings
