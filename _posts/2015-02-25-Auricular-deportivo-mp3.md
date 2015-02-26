@@ -21,4 +21,4 @@ Características:
 
 Precios
 
-Amazon S/M: 6,90 €
+Amazon: 6,90 €
