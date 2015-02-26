@@ -9,7 +9,7 @@ comments: true
 
 Auriculares Reproductor MP3, sin cables, diseñados para escuchar música mientras practicas algún deporte al aire libre
 
-![Imgur](http://i.imgur.com/wsOtf2Y.jpg? "Auriculares Reproductor mp3)
+![Imgur](http://i.imgur.com/wsOtf2Y.jpg? "Auriculares Reproductor mp3")
 
 Características:
 
