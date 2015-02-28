@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: Marcas
 premalink: /tags/
 ---
 
