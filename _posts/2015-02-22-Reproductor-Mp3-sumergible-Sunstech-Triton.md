@@ -2,7 +2,7 @@
 layout: post
 title: Reproductor Mp3 Sumergible Sunstech Triton
 modified: 2015-02-22
-categories: Reproductores-MP3
+categories: Reproductores-MP3, MP3-Sumergible
 tags: [Triton]
 comments: true
 ---
