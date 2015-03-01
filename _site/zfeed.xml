@@ -3,11 +3,112 @@
   <channel>
     <title>Musicap3</title>
     <description>Analisis de productos y accesorios MP3.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Feb 2015 17:39:36 +0100</pubDate>
-    <lastBuildDate>Sun, 22 Feb 2015 17:39:36 +0100</lastBuildDate>
+    <link>http://musicap3.com//</link>
+    <atom:link href="http://musicap3.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Mar 2015 16:03:30 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2015 16:03:30 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Reproductor MP3 para coches</title>
+        <description>&lt;p&gt;Hoy os traemos un reproductor MP3 para conectar directamente al enchufe del coche, de la marca Energy Sistem, y poder escuchar tu música preferida a través de la radio del coche.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/PdMKkB8.jpg?1&amp;quot;Reproductor MP3 para el coche&amp;quot;&quot; alt=&quot;Imgur&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Características:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Incluye mando a distancia&lt;/li&gt;
+  &lt;li&gt;Con lector de tarjetas SD y SDHC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Precios&lt;/p&gt;
+
+&lt;p&gt;Amazon: 15,48 €&lt;/p&gt;
+
+&lt;p&gt;FNAC: 17,95 €&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://musicap3.com//Reproductor-MP3-para-Coches/</link>
+        <guid isPermaLink="true">http://musicap3.com//Reproductor-MP3-para-Coches/</guid>
+        
+        <category>Energy Sistem</category>
+        
+        
+        <category>reproductores-mp3</category>
+        
+        <category>coche</category>
+        
+      </item>
+    
+      <item>
+        <title>Auriculares reproductor MP3 deportivo</title>
+        <description>&lt;p&gt;Auriculares Reproductor MP3, sin cables, diseñados para escuchar música mientras practicas algún deporte al aire libre&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/wsOtf2Y.jpg?&quot; alt=&quot;Imgur&quot; title=&quot;Auriculares Reproductor mp3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Características:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diseñados para hacer deporte&lt;/li&gt;
+  &lt;li&gt;Sin cables&lt;/li&gt;
+  &lt;li&gt;Con soporte para tarjetas SD/TF de hasta 16 GB (no incluidas)&lt;/li&gt;
+  &lt;li&gt;Batería de litio&lt;/li&gt;
+  &lt;li&gt;Formatos de audio: MP3, WAV, WMA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Precios&lt;/p&gt;
+
+&lt;p&gt;Amazon: 6,90 €&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://musicap3.com//Auricular-deportivo-mp3/</link>
+        <guid isPermaLink="true">http://musicap3.com//Auricular-deportivo-mp3/</guid>
+        
+        
+        <category>accesorios</category>
+        
+        <category>running</category>
+        
+        <category>reproductores-mp3</category>
+        
+      </item>
+    
+      <item>
+        <title>Brazalete deportivo Craft</title>
+        <description>&lt;p&gt;Brazalete deportivo para llevar tu Mp3 o tu teléfono móvil mientras practicas tu deporte favorito, disponible en dos tallas, S/M y L/XL&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/x6119w9.jpg?1&quot; alt=&quot;Elaphurus davidianus&quot; title=&quot;TSunstech Triton&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Características:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Neopreno&lt;/li&gt;
+  &lt;li&gt;Ajustado&lt;/li&gt;
+  &lt;li&gt;Dos tallas S/M y L/XL&lt;/li&gt;
+  &lt;li&gt;Dedicado para practicar runnig&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Precios&lt;/p&gt;
+
+&lt;p&gt;Amazon S/M: 7,32 €&lt;/p&gt;
+
+&lt;p&gt;Amazon L/XL: 13,56 €&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://musicap3.com//Brazalete-deportivo-Craft/</link>
+        <guid isPermaLink="true">http://musicap3.com//Brazalete-deportivo-Craft/</guid>
+        
+        <category>Craft</category>
+        
+        
+        <category>brazalete-deportivo</category>
+        
+        <category>accesorios</category>
+        
+        <category>running</category>
+        
+      </item>
     
       <item>
         <title>Reproductor Mp3 Sumergible Sunstech Triton</title>
@@ -30,10 +131,10 @@
 &lt;p&gt;FNAC: 40,49 €&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Feb 2015 00:00:00 +0100</pubDate>
-        <link>/Reproductor-Mp3-sumergible-Sunstech-Triton/</link>
-        <guid isPermaLink="true">/Reproductor-Mp3-sumergible-Sunstech-Triton/</guid>
+        <link>http://musicap3.com//Reproductor-Mp3-sumergible-Sunstech-Triton/</link>
+        <guid isPermaLink="true">http://musicap3.com//Reproductor-Mp3-sumergible-Sunstech-Triton/</guid>
         
-        <category>Transcend</category>
+        <category>Triton</category>
         
         
         <category>reproductores-mp3</category>
@@ -59,8 +160,8 @@
 &lt;p&gt;Enlace a compra&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Feb 2015 00:00:00 +0100</pubDate>
-        <link>/Reproductor-Mp3-Transcend-TS8GMP350B%20Outdoor/</link>
-        <guid isPermaLink="true">/Reproductor-Mp3-Transcend-TS8GMP350B%20Outdoor/</guid>
+        <link>http://musicap3.com//Reproductor-Mp3-Transcend-TS8GMP350B%20Outdoor/</link>
+        <guid isPermaLink="true">http://musicap3.com//Reproductor-Mp3-Transcend-TS8GMP350B%20Outdoor/</guid>
         
         <category>Transcend</category>
         
@@ -74,8 +175,8 @@
         <description>&lt;p&gt;Empezando&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Jan 2015 00:00:00 +0100</pubDate>
-        <link>/Hola/</link>
-        <guid isPermaLink="true">/Hola/</guid>
+        <link>http://musicap3.com//Hola/</link>
+        <guid isPermaLink="true">http://musicap3.com//Hola/</guid>
         
         
       </item>
