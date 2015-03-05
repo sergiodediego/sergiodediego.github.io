@@ -2,7 +2,7 @@
 layout: post
 title: Auriculares inalámbricos Sony MDRRF811RK
 modified: 2015-03-05
-categories: auriculares accesorios bluetooth
+categories: auriculares-inalambricos accesorios
 tags: [Sony]
 comments: true
 ---
