@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Reproductor Mp3 Sumergible Sony NWZW273S Negro
+title: Reproductor Mp3 Acuático Sony NWZW273S Azul
 modified: 2015-03-01
-categories: Reproductores-MP3 MP3-Sumergible
-tags: [Sony]
+categories: Reproductores-MP3 MP3-Acuatico
 comments: true
 ---
 
-Reproductor Mp3 Sumergible marca Sony, con 4 GB de capacidad, diseñado específicamente para utilizar mientras practicas natación.
+Reproductor Mp3 sumergible marca Sony de color azul, con 4 GB de capacidad, diseñado específicamente para utilizar mientras practicas natación.
 
-![Imgur](http://i.imgur.com/raAqPDF.jpg?1 "Sony")
+![Imgur](http://i.imgur.com/Pk1rZH0.jpg?1 "Sony")
 
 Características:
 
@@ -17,10 +16,11 @@ Características:
  - Sumergible hasta 2 metros
  - Batería de litio con autonomía de hasta 20 h. y 8 h. de reproducción
  - Soporta MP3, WMA, AAC y LPCM
+ - Tiempo de carga 1,5 h.
  - Dedicado para escuchar música mientras haces deporte, especialmente la natación.
 
 Precios:
 
-Amazon: 64,30 €
+Amazon: 71,95 €
 
 FNAC: 79,99 €

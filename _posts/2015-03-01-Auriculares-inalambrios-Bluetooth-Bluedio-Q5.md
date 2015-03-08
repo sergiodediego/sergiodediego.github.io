@@ -2,8 +2,7 @@
 layout: post
 title: Auriculares inalámbricos Bluetooth Bluedio Q5
 modified: 2015-03-01
-categories: auriculares accesorios bluetooth
-tags: [Bluedio]
+categories: auriculares-inalambricos accesorios bluetooth
 comments: true
 ---
 

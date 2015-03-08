@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% for post in site.categories.[page.category] %}
+  <br>  
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+ <div class="excerpt">
+<font color="gray">{{ post.excerpt }}</font>
+</div>
+  <p></p>
+{% endfor %}

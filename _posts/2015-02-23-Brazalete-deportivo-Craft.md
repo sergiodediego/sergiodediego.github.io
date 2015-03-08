@@ -2,8 +2,7 @@
 layout: post
 title: Brazalete deportivo Craft
 modified: 2015-02-23
-categories: Brazalete-deportivo Accesorios Running
-tags: [Craft]
+categories: Brazalete-deportivo Accesorios mp3-correr
 comments: true
 ---
 

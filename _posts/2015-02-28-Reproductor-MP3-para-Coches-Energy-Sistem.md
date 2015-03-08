@@ -2,8 +2,7 @@
 layout: post
 title: Reproductor MP3 para coches Energy Sistem
 modified: 2015-02-28
-categories: reproductores-mp3 coche
-tags: [Energy Sistem]
+categories: reproductores-mp3 mp3-coches
 comments: true
 ---
 

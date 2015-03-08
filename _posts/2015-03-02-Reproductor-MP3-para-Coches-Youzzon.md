@@ -2,8 +2,7 @@
 layout: post
 title: Reproductor MP3 para coches Youzzon con manos libres
 modified: 2015-03-02
-categories: reproductores-mp3 coche manos-libres bluetooth
-tags: [Youzzon]
+categories: reproductores-mp3 mp3-coches manos-libres bluetooth
 comments: true
 ---
 

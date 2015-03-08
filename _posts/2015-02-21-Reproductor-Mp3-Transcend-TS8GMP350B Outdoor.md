@@ -3,7 +3,6 @@ layout: post
 title: Reproductor Mp3 Transcend
 modified: 2015-02-21
 categories: Reproductores-MP3
-tags: [Transcend]
 comments: true
 ---
 
@@ -21,4 +20,4 @@ Características:
 
 
 
-Enlace a compra
+Precios

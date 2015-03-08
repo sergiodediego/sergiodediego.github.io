@@ -2,8 +2,8 @@
 layout: post
 title: Auriculares reproductor MP3 deportivo
 modified: 2015-02-25
-categories: Accesorios Running reproductores-mp3
-tags: []
+categories: mp3-correr reproductores-mp3
+
 comments: true
 ---
 

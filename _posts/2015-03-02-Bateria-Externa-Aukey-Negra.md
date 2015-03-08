@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Batería Externa de 3.000mAh Aukey Negro
+title: Cargador portátil de 3.000mAh Aukey Negro
 modified: 2015-03-02
-categories: Accesorios Bateria-externa
-tags: [Aukey]
+categories: Accesorios cargadores-portatiles
 comments: true
 ---
 
-Cargador portatil de 3.00mAh para cargar la batería de tu reproductor MP3, Smartphone o videoconsola portatil donde la necesites.
+Batería externa de 3.00mAh para cargar la batería de tu reproductor MP3, Smartphone o videoconsola portatil donde la necesites.
 
 ![Imgur](http://i.imgur.com/TqhOxc6.jpg?1 "Batería externa")
 

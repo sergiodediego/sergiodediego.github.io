@@ -3,8 +3,7 @@ layout: post
 title: Auriculares inalámbricos Sony MDRRF811RK
 modified: 2015-03-05
 categories: auriculares-inalambricos accesorios
-tags: [Sony]
-comments: true
+comments: True
 ---
 
 Auriculares inalámbricos de diadema, de uso doméstico, con un alcance de recepción hasta 100 m, de lo mejor para escuchar tu música favorita tumbado en el sofá.
@@ -19,6 +18,6 @@ Características:
  - Diadema autoajustable
  - Transmisión inalámbrica por RF
 
-Valoraciones:
+Valoraciones y precios
 
-Amazon: 3.8/5 Precio: 38,00 €
+Amazon: 3.8/5 - 38,00 €
