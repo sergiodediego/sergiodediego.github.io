@@ -6,7 +6,7 @@ categories: mp3-coches manos-libres bluetooth
 comments: true
 ---
 
-Hoy tramenos un kit manos libres para poder utilizar el teléfono móvil en el coche que también tiene función MP3, permite escuchar tu música favorita mediante una tarjeta SD o un USB
+Hoy traemos un kit manos libres para poder utilizar el teléfono móvil en el coche que también tiene función MP3, permite escuchar tu música favorita mediante una tarjeta SD o un USB
 
 ![Imgur](http://i.imgur.com/qLAVJyP.jpg?1 "Reproductor MP3 para el coche")
 
