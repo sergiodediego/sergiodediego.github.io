@@ -20,5 +20,5 @@ Características:
 
 Valoraciones y precios
 
-[Amazon: 4/5 - 21,79 €](<a href="http://www.amazon.es/gp/product/B00Q3TJNHI/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00Q3TJNHI&linkCode=as2&tag=musicap3-21"></a><img src="http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B00Q3TJNHI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) 
+[Amazon: 4/5 - 21,79 €](http://www.amazon.es/gp/product/B00Q3TJNHI/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00Q3TJNHI&linkCode=as2&tag=musicap3-21) 
 
