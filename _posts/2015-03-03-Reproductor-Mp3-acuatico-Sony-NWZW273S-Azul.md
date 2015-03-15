@@ -19,8 +19,8 @@ Características:
  - Tiempo de carga 1,5 h.
  - Dedicado para escuchar música mientras haces deporte, especialmente la natación.
 
-Precios:
+Valoración y Precios:
 
-Amazon: 71,95 €
+[Amazon: 3,8/5 - 71,95 €](http://www.amazon.es/gp/product/B00ICI7FIM/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00ICI7FIM&linkCode=as2&tag=musicap3-21)[](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B00ICI7FIM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;)
 
-FNAC: 79,99 €
+
