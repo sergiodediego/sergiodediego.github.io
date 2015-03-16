@@ -21,6 +21,4 @@ Características:
 
 Valoraciones y precios
 
-FNAC: Sin valoraciones - 35,99€
-
-Amazon: 2/5 - 39,90 €
+[Amazon: 2/5 - 36,97 €](http://www.amazon.es/gp/product/B00MBFT0VW/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00MBFT0VW&linkCode=as2&tag=musicap3-21)[.](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B00MBFT0VW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;)
