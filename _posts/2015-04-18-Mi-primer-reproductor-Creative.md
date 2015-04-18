@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mi primer reproductor Creative
+title: Mi primer reproductor MP3
 modified: 2015-04-18
 categories: reproductores-mp3 creative
 comments: true
