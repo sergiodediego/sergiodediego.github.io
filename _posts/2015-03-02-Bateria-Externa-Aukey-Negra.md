@@ -16,6 +16,6 @@ Características:
  - Compatible con Android, IOS y Windows
  - Añade hasta 70 horas de reproducción de música
 
-Precios:
+Valoración y precios:
 
-Amazon: 12,99 €
+[Amazon: 4,5/5 - 9,99 €](http://www.amazon.es/gp/product/B00ORO9MPE/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00ORO9MPE&linkCode=as2&tag=musicap3-21)[.](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B00ORO9MPE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;) 
