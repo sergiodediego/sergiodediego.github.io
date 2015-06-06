@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://musicap3.com/</loc>
-<lastmod>2015-03-21</lastmod>
+<lastmod>2015-06-06</lastmod>
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
+</url>
+
+<url>
+<loc>http://musicap3.com/Mis-Reproductores-MP3/</loc>
+
+<lastmod>2015-06-06</lastmod>
+
+</url>
+
+<url>
+<loc>http://musicap3.com/Auriculares-inalambrios-Beats-Dr-Dre-Solo2-Negro/</loc>
+
+<lastmod>2015-04-24</lastmod>
+
+</url>
+
+<url>
+<loc>http://musicap3.com/Mi-primer-reproductor-Creative/</loc>
+
+<lastmod>2015-04-18</lastmod>
+
+</url>
+
+<url>
+<loc>http://musicap3.com/Reproductor-para-coches-bestope/</loc>
+
+<lastmod>2015-04-12</lastmod>
+
+</url>
+
+<url>
+<loc>http://musicap3.com/Bateria-Externa-RAVPower-Negra-8400mAh/</loc>
+
+<lastmod>2015-03-26</lastmod>
+
+</url>
+
+<url>
+<loc>http://musicap3.com/Auriculares-Boton-Sennheiser-CX150/</loc>
+
+<lastmod>2015-03-22</lastmod>
+
 </url>
 
 <url>
@@ -137,43 +179,7 @@
 <url>
 <loc>http://musicap3.com/categories/</loc>
 
-<lastmod>2015-03-21</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/index.html</loc>
-
-<lastmod>2015-03-21</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/mp3-acuaticos/index.html</loc>
-
-<lastmod>2015-03-21</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/mp3-para-coches/index.html</loc>
-
-<lastmod>2015-03-21</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/reproductores-mp3/index.html</loc>
-
-<lastmod>2015-03-21</lastmod>
+<lastmod>2015-06-06</lastmod>
 
 
 
@@ -182,25 +188,7 @@
 <url>
 <loc>http://musicap3.com/accesorios/index.html</loc>
 
-<lastmod>2015-03-21</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/cargador-portatil/index.html</loc>
-
-<lastmod>2015-03-21</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/mp3-para-correr/index.html</loc>
-
-<lastmod>2015-03-21</lastmod>
+<lastmod>2015-06-06</lastmod>
 
 
 
@@ -209,7 +197,61 @@
 <url>
 <loc>http://musicap3.com/auriculares-inalambricos/index.html</loc>
 
-<lastmod>2015-03-21</lastmod>
+<lastmod>2015-06-06</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/reproductores-mp3/index.html</loc>
+
+<lastmod>2015-06-06</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/mp3-para-correr/index.html</loc>
+
+<lastmod>2015-06-06</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/mp3-para-coches/index.html</loc>
+
+<lastmod>2015-06-06</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/cargador-portatil/index.html</loc>
+
+<lastmod>2015-06-06</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/index.html</loc>
+
+<lastmod>2015-06-06</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/mp3-acuaticos/index.html</loc>
+
+<lastmod>2015-06-06</lastmod>
 
 
 
@@ -218,7 +260,7 @@
 <url>
 <loc>http://musicap3.com/page2/index.html</loc>
 
-<lastmod>2015-03-21</lastmod>
+<lastmod>2015-06-06</lastmod>
 
 
 
@@ -227,7 +269,7 @@
 <url>
 <loc>http://musicap3.com/page3/index.html</loc>
 
-<lastmod>2015-03-21</lastmod>
+<lastmod>2015-06-06</lastmod>
 
 
 
@@ -236,7 +278,16 @@
 <url>
 <loc>http://musicap3.com/page4/index.html</loc>
 
-<lastmod>2015-03-21</lastmod>
+<lastmod>2015-06-06</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/page5/index.html</loc>
+
+<lastmod>2015-06-06</lastmod>
 
 
 
