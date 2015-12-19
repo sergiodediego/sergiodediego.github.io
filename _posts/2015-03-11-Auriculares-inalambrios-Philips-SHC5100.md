@@ -17,7 +17,3 @@ Características:
  - Diadema autoajustable
  - Permite escuchar tu música desde otra habitación
 
-
-Valoraciones y precios
-
-Amazon: 4/5 - 36,50 €

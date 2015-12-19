@@ -16,8 +16,3 @@ Características:
  - Micrófono integrado
  - Diadema autoajustable
  - Batería para escuchar música o hablar por teléfono durante 9 h.
-
-
-Valoraciones y precios
-
-[Amazon: 3,8/5 - 29,95 €](http://www.amazon.es/gp/product/B00A926A4E/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00A926A4E&linkCode=as2&tag=musicap3-21)[.](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B00A926A4E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;) 

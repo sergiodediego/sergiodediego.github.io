@@ -18,9 +18,3 @@ Características:
  - Memoria de 4 GB
  - Soporta MP3
  - Incluye radio FM
-
-Valoración y Precios:
-
-[Amazon: 3,9/5 - 38,99 €](http://www.amazon.es/gp/product/B00YA3RZ2E/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00YA3RZ2E&linkCode=as2&tag=musicap3-21)[.](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B00YA3RZ2E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;)
-
-

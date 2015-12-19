@@ -16,9 +16,3 @@ Características:
  - Incorpora auriculáres acuáticos
  - Soporta MP3, WMA y WAV
 
-
-Valoraciones y precios:
-
-Amazon: 4,1/5 - 33,91 €
-
-FNAC: Sin valoración - 38,36 €

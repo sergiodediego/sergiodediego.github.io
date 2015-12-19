@@ -15,8 +15,3 @@ Características:
 
  - Incluye mando a distancia
  - Con lector de tarjetas SD y SDHC
-
-
-Valoración y Precios:
-
-[Amazon: 3,6/5 - 15,75 €](http://www.amazon.es/gp/product/B0055ZL74I/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B0055ZL74I&linkCode=as2&tag=musicap3-21)[.](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B0055ZL74I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;) 

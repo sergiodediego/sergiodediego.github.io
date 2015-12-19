@@ -17,7 +17,3 @@ Características:
  - Batería de litio con autonomía de hasta 20 h. y 8 h. de reproducción
  - Soporta MP3, WMA, AAC y LPCM
  - Dedicado para escuchar música mientras haces deporte, especialmente la natación.
-
-Valoración y Precios:
-
-[Amazon: 3,4/5 - 75,95 €](http://www.amazon.es/gp/product/B00ICI7DUM/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00ICI7DUM&linkCode=as2&tag=musicap3-21)[.](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B00ICI7DUM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;) 

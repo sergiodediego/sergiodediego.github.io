@@ -15,7 +15,3 @@ Características:
  - Tamaño reducido
  - Compatible con Android y Windows
  - Gran capacidad 8.000 mAh
-
-Valoraciones y precios:
-
-Amazon: 4,7/5 - 12,99 €

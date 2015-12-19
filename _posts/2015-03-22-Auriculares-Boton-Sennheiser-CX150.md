@@ -14,8 +14,3 @@ Características:
  - Frecuencia de auricular 20 - 20000 Hz;Tamaño de cable 1.2 m
  - Negro
 
-
-
-Valoraciones y precios
-
-[Amazon: 4,2/5 - 12,13 €](http://www.amazon.es/gp/product/B002YO8WRI/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B002YO8WRI&linkCode=as2&tag=musicap3-21)[.](http://ir-es.amazon-adsystem.com/e/ir?t=musicap3-21&l=as2&o=30&a=B002YO8WRI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;) 

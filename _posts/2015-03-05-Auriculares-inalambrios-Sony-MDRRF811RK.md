@@ -17,7 +17,3 @@ Características:
  - Autonomía en uso de hasta 13 horas.
  - Diadema autoajustable
  - Transmisión inalámbrica por RF
-
-Valoraciones y precios
-
-Amazon: 3.8/5 - 38,00 €

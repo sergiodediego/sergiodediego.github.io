@@ -19,8 +19,3 @@ Características:
  - Alimentación a través del mechero
  - Tecnología Bluetooth
 
-
-
-Valoraciones y precios
-
-Amazon: Sin valoración - 17,45 €

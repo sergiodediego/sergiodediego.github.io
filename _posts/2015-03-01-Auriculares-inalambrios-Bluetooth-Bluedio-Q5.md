@@ -17,8 +17,3 @@ Características:
  - Autonomía en uso de hasta 7 horas.
  - Soporta MP3
  - Color verde.
-
-Valoraciones y precios
-
-[Amazon: 4/5 - 21,79 €](http://www.amazon.es/gp/product/B00Q3TJNHI/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B00Q3TJNHI&linkCode=as2&tag=musicap3-21) 
-
