@@ -6,7 +6,7 @@ categories: auriculares-inalambricos bluetooth
 comments: true
 ---
 
-Los auriculares inalámbricos Gogroove BlueVIBE F1T, con su gran diseño ergonómico y su ajuste perfecto a la oreja, nos van a permitir escuchar nuestra música mientras practicamos deporte, dispone de un micrófono lo que nos va a dejar también, conectándolo vía bluetooth a un smartphone, atender también a llamadas de teléfono, ya que tiene también botones para movernos entre nuestras canciones, pausarlas, controlar el volumen, etc. 
+Los auriculares inalámbricos Gogroove BlueVIBE F1T, con su gran diseño ergonómico y su ajuste perfecto a la oreja, nos van a permitir escuchar nuestra música mientras practicamos deporte, dispone de un micrófono lo que nos va a dejar también, conectándolo vía bluetooth a un [smartphone Android](http://tuandroid.es "Smartphone Android"), atender también a llamadas de teléfono, ya que tiene también botones para movernos entre nuestras canciones, pausarlas, controlar el volumen, etc. 
 
 
 
