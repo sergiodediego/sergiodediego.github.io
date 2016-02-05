@@ -19,6 +19,9 @@ comments: true
 
 [Amazon](http://www.amazon.es/gp/product/B005DKJ40O/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B005DKJ40O&linkCode=as2&tag=jerdelan-21 "Reproductor Mp3 Sumergible Sunstech Triton"): 37,40€
 
+
+***
+
 #### Análisis del producto:
 
 Reproductor Mp3 sumergible Sunstech Triton con 4 GB de capacidad, especialmente diseñado para utilizar y escuchar toda tu música mientras nadas y buceas, ya que está se encuentra integrado dentro de los auriculares, y su diseño permite para que se pueda sumergir hasta 3 metros, por lo que no hay ningún problema en que lo puedas utilizar en una piscina.
