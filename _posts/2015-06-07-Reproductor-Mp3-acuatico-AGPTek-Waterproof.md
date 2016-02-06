@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Reproductor Mp3 Acuático AGPTek Waterproof
+description: Análisis del Reproductor acuático AGPTek Waterproof
 modified: 2015-06-07
-categories: Reproductores-MP3 MP3-Acuatico
+categories: Reproductores-MP3 MP3-Acuaticos
 comments: true
 ---
 
@@ -10,7 +11,7 @@ Ahora que llega el verano, se abren las piscinas y empezamos a planear en qué p
 
 Estamos hablando de AGPTek 4 GB IPX8 Waterproof, reproductor deportivo, pero orientado sobre todo a la natación, ya que es resistente al agua hasta una profundidad de 3 metros.
 
-![Imgur](http://i.imgur.com/7W9YA50.jpg?1 "AGPTek")
+![Reproductor Mp3 Acuático AGPTek Waterproof](http://i.imgur.com/7W9YA50.jpg?1 "AGPTek")
 
 Características:
 
