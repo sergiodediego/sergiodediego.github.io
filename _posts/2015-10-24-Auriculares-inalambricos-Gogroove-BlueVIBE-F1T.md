@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auriculares inalámbricos Gogroove BlueVIBE F1T
-description: Review de los auriculares inalámbricos de la marca Gogroove BlueVIBE F1T
+description: Análisis de los auriculares inalámbricos de la marca Gogroove BlueVIBE F1T
 modified: 2015-10-24
 categories: auriculares-inalambricos bluetooth
 comments: true
