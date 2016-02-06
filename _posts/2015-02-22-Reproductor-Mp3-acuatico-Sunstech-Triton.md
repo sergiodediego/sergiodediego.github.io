@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Reproductor Mp3 acuatico Sunstech Triton
+title: Reproductor Mp3 sumergible Sunstech Triton
 description: Análisis del reproductor Mp3 Sumergible Sunstech Triton
-modified: 2015-02-22
+keywords: reproductor mp3 sumergible
+modified: 2016-02-06
 categories: Reproductores-MP3 MP3-Acuatico
 
 comments: true
 ---
-##Resumen de las características:
+## Resumen de las características:
 
  - 4 GB de capacidad
  - Sumergible hasta 3 metros
@@ -22,7 +23,7 @@ comments: true
 
 ***
 
-##Análisis del producto:
+## Análisis del producto:
 
 Reproductor Mp3 sumergible Sunstech Triton con 4 GB de capacidad, especialmente diseñado para utilizar y escuchar toda tu música mientras nadas y buceas, ya que está se encuentra integrado dentro de los auriculares, y su diseño permite para que se pueda sumergir hasta 3 metros, por lo que no hay ningún problema en que lo puedas utilizar en una piscina.
 
