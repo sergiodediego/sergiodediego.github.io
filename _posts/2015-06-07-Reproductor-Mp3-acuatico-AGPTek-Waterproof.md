@@ -3,7 +3,7 @@ layout: post
 title: Reproductor Mp3 Acuático AGPTek Waterproof
 description: Análisis del Reproductor acuático AGPTek Waterproof
 modified: 2015-06-07
-categories: Reproductores-MP3 MP3-Acuaticos
+categories: reproductores-mp3 mp3-acuaticos
 comments: true
 ---
 
