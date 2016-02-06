@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reproductor Mp3 sumergible Sunstech Triton
-set_meta_tags description: Análisis del reproductor Mp3 Sumergible Sunstech Triton
+title: Mp3 sumergible Sunstech Triton
+description: Análisis del reproductor Mp3 Sumergible Sunstech Triton
 keywords: reproductor mp3 sumergible
 modified: 2016-02-06
 categories: Reproductores-MP3 MP3-Acuatico
