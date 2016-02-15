@@ -6,7 +6,7 @@ modified: 2016-02-15
 categories: reproductores-mp3 accesorios
 comments: true
 ---
-## Resumen de las características:
+### Resumen de las características:
 
  - Funciona por voz
  - 4 GB de almacenamiento
@@ -19,7 +19,7 @@ Página oficial: [Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X
 
 ***
 
-## Análisis del producto:
+### Análisis del producto:
 
 Amazon presentó hace un par de años uno de esos productos que podemos considerar revolucionarios, un auténtico dispositivo de comando de voz, que se diferencia del resto de sistema de comandos de voz, como Google Now o Siri de Apple, precisamente en eso, que es un dispositivo ajeno a un smartphone o tablet, como son los anteriores.
 

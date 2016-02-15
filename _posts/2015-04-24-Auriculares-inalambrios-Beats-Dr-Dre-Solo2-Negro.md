@@ -6,7 +6,7 @@ modified: 2016-02-14
 categories: auriculares-inalambricos accesorios auriculares Beats
 comments: True
 ---
-## Resumen de las características:
+### Resumen de las características:
 
  - Transmisión por WiFi y bluetooth
  - Micrófono integrado
@@ -17,7 +17,7 @@ comments: True
 
 ***
 
-## Análisis del producto:
+### Análisis del producto:
 
 Auriculares de diadema inalámbricos de la marca Beats by Dr. Dre Solo2 Wireless, conectalo con tu mp3 para escuchar tu música favorita o a tu smartphone para también realizar y recibir llamadas, permite moverte libremente hasta 9 metros sin cables y dispone de batería recargable con 12 horas de autonomía. Su excelente calidad de sonido lo convierte en uno de los mejores productos del mercado.
 

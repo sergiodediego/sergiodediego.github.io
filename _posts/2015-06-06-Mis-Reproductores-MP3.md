@@ -9,7 +9,7 @@ Hace unos días os conté cuál fue mi primer reproductor MP3, un [Creative MuVo
 
 Decidí que lo mejor era volver a la marca que mejores resultados me había dado hasta entonces, mi siguiente reproductor fue un [Creative Zen X-Fi](http://www.amazon.es/gp/product/B001C9RY34/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B001C9RY34&linkCode=as2&tag=jerdelan-21 "Creative Zen X-Fi"), con 8 Gigas de capacidad, una ranura para tarjetas SD, lo que hacía que la capacidad pudiera ser altísima, con una calidad de sonido bastante buena, e incluso la calidad de los vídeos también era bastante decente. Lo tengo desde hace ya más de 5 años y cuando he tenido que echar mano de él sigue funcionando de maravilla. Fué el primer reproductor que tuve con batería incluida, un elemento que ahora se ve como algo natural, pero que en ese momento, pude por fín quitarme las pilas de encima.
 
-## Características del reproductor Creative Zen X-fi:
+### Características del reproductor Creative Zen X-fi:
 
  - 8 GB de capacidad
  - Altavoces incorporados

@@ -6,7 +6,7 @@ modified: 2016-02-14
 categories: reproductores-mp3 mp3-acuatico
 comments: true
 ---
-## Resumen de las características:
+### Resumen de las características:
 
  - Batería de litio con autonomía de entre 12 y 14 horas.
  - Memoria de 4 GB
@@ -16,7 +16,7 @@ comments: true
 
 ***
 
-## Análisis del producto:
+### Análisis del producto:
 
 Ahora que llega el verano, se abren las piscinas y empezamos a planear en qué playita pasar esos pocos días de vacaciones que podremos disfrutar, os presento un nuevo reproductor MP3 para escuchar toda nuestra música, mientras nadamos en la piscina o en la playa.
 

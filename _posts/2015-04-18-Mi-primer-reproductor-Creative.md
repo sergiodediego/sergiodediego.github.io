@@ -8,7 +8,7 @@ comments: true
 Hoy os vengo a contar cuál fue mi primer reproductor MP3, y no fue otro que el Creative MuVo TX FM de 128 MB.
 
 
-![Imgur](http://i.imgur.com/gRiJViR.jpg?1 "Creative")
+![Creative MuVo](http://i.imgur.com/gRiJViR.jpg?1 "Creative")
 
 Está claro que actualmente este reproductor no tendría mucho tirón, pero en su momento me pareció un gadget de gran calidad, no podía meter demasiada música, pero el sonido era bastante bueno, siempre he valorado la calidad de sonido de los productos Creative.
 

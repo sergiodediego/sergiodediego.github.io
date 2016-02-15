@@ -6,7 +6,7 @@ modified: 2016-02-07
 categories: auriculares-inalambricos bluetooth
 comments: true
 ---
-## Resumen de las características:
+### Resumen de las características:
 
  - Conexión por bluetooth
  - Micrófono y botones integrados
@@ -20,7 +20,7 @@ comments: true
 
 ***
 
-## Análisis del producto:
+### Análisis del producto:
 
 Los auriculares inalámbricos Gogroove BlueVIBE F1T, con su gran diseño ergonómico y su ajuste perfecto a la oreja, nos van a permitir escuchar nuestra música mientras practicamos deporte al aire libre, que el fabricante nos garantiza que tiene Certificado IPx, lo que significa que resiste las gotas de lluvia y de sudor. Dispone de un micrófono lo que nos va a dejar también, conectándolo vía bluetooth a un [smartphone Android](http://tuandroid.es "Smartphone Android"), atender también a llamadas de teléfono, ya que tiene también botones para movernos entre nuestras canciones, pausarlas, controlar el volumen, etc. 
 
