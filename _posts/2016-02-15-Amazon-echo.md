@@ -3,7 +3,7 @@ layout: post
 title: Amazon Echo
 description: Análisis de Amazon Echo
 modified: 2016-02-15
-categories: reproductores accesorios
+categories: reproductores-mp3 accesorios
 comments: true
 ---
 ## Resumen de las características:
