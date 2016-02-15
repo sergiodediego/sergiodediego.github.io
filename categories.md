@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 
+title: Categorias de Musicap3.com
+description: Categorías de los diferentes productos analizados en Musicap3.com
 permalink: /categories/
 ---
 
