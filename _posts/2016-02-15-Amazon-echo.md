@@ -17,10 +17,11 @@ comments: true
 
 Página oficial: [Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E "Amazon Echo")
 
-##### Actualización
+#### Actualización
 Después de más de 10 meses de la publicación de esta entrada y casi dos años de que apareciera en el mercado de Estados Unidos, [Amazon España](http://amzn.to/2i6KIYJ"Amazon España") todavía no ha puesto a la venta este interesante artículo, siendo todavía más curioso que sí que se puede adquirir su [funda](http://amzn.to/2i6ScLh"funda amazon echo") o casi peor su gran competidor [Google Home](http://amzn.to/2i6OoJT"Google Home").
 
 ***
+
 ### Análisis del producto:
 
 Amazon presentó hace un par de años uno de esos productos que podemos considerar revolucionarios, un auténtico dispositivo de comando de voz, que se diferencia del resto de sistema de comandos de voz, como Google Now o Siri de Apple, precisamente en eso, que es un dispositivo ajeno a un smartphone o tablet, como son los anteriores.
