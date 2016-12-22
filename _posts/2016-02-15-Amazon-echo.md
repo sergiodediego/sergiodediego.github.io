@@ -17,7 +17,7 @@ comments: true
 
 Página oficial: [Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E "Amazon Echo")
 
-#####Actualización
+##### Actualización
 Después de más de 10 meses de la publicación de esta entrada y casi dos años de que apareciera en el mercado de Estados Unidos, [Amazon España](http://amzn.to/2i6KIYJ"Amazon España") todavía no ha puesto a la venta este interesante artículo, siendo todavía más curioso que sí que se puede adquirir su [funda](http://amzn.to/2i6ScLh"funda amazon echo") o casi peor su gran competidor [Google Home](http://amzn.to/2i6OoJT"Google Home").
 
 ***
@@ -42,3 +42,4 @@ Otro aspecto no demasiado positivo es su quizá exagerado precio, actualmente cu
 Resumiendo, estamos ante un gran dispositivo, quizá incluso algo revolucionario y que veremos si Google o Apple se animan a realizar algo parecido, por ahora nos encontramos con un producto pionero y que esperemos podamos a disfrutar pronto en Europa, eso si, con un precio un poco más asequible, por que por muy bueno que sea, hay que pensarse dos veces gastarse más de 150 €.
 
 
+ 	
