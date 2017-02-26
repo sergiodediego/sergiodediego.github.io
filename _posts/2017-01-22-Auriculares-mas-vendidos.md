@@ -6,13 +6,7 @@ modified: 2016-01-22
 categories: accesorios auriculares-inalambricos
 comments: true
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-1902267523620793",
-    enable_page_level_ads: true
-  });
-</script>
+
 Seguimos con los artículos de productos relacionados con Mp3 más vendidos a través de [Amazon España](https://www.amazon.es//ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jerdelan-21&linkId=8c72a011a3994049f7ff447ab9b03a84 "Amazon").
 Hoy  veremos cuáles son los [auriculares](https://www.amazon.es/gp/bestsellers/electronics/934056031/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=jerdelan-21&linkId=41b00d3e2bd1da3a8f5770bc0f58135f) más vendidos:
 
