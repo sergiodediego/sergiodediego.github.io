@@ -1,0 +1,58 @@
+### Site info:
+title: Reproductores MP3
+tagline: Análisis de productos y accesorios MP3
+author: Sergio de Diego
+title: "Reproductores MP3"
+description: "Análisis de los mejores productos y accesorios MP3 actualmente en venta." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+
+
+url: "http://musicap3.com" # the base hostname & protocol for your site
+
+locales:
+    en:
+     
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Más categorías"
+      Copyright_Notice: "Copyright Notice"
+      Resent_Posts: "Últimos artículos"
+      
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"  
+      PostDate: "on "
+
+
+
+
+
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
+
+
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+    - name: musicap3
+      href: http://musicap3.com
+      title: Analisis de productos y accesorios MP3
+
+ # Scripts
+
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-3866214-1"'
+
+
+### Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 5
+
+
+
