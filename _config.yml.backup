@@ -1,7 +1,7 @@
 ### Site info:
 title: Caries
 tagline: Análisis de productos y accesorios MP3
-title: "Caries"
+title: "Reproductores MP3"
 description: "Análisis de los mejores productos y accesorios MP3 actualmente en venta." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 
 
@@ -35,10 +35,15 @@ default_locale: "en" # blog sidebar language set, only include: English(en) and 
 
 Blogroll:
     - name: Caries
-      href: http://lacaries.com.es
+      href: http://lacar.com
       title: Analisis de productos y accesorios MP3
 
+ # Scripts
 
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-3866214-1"'
 
 
 ### Build settings
