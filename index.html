@@ -8,6 +8,7 @@ layout: default
     {% for post in paginator.posts %}
   
     <header class="post-header">
+    {% include advertisements.html %}
       <h2 class="post-title">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
@@ -29,7 +30,6 @@ layout: default
     <article class="post-content">
       {{ post.content }}
     </article> <hr />
-    {% include advertisements.html %}
     {% endfor %}
   
   </div>
